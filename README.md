@@ -1,4 +1,3 @@
 Rodar projeto:
 
-Npm run setup
-Npm start
+Npm run setup / Npm start
