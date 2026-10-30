@@ -1,0 +1,70 @@
+{
+  "_aviso": "DADOS SIMULADOS - criados apenas para a PoC. Nao representam computadores nem pessoas reais.",
+  "ativos": [
+    {
+      "id": 1,
+      "codigo": "ATV-001",
+      "patrimonio": "1025",
+      "nome": "Dell OptiPlex 3080",
+      "tipo": "Desktop",
+      "localizacao": "Lab. 3 - Sala 12",
+      "status": "Em uso",
+      "processador": "Intel Core i5-10500",
+      "memoria": "8 GB",
+      "armazenamento": "SSD 256 GB",
+      "sistema": "Windows 11 Pro"
+    },
+    {
+      "id": 2,
+      "codigo": "ATV-002",
+      "patrimonio": "1026",
+      "nome": "Lenovo ThinkCentre M70q",
+      "tipo": "Desktop",
+      "localizacao": "Lab. 3 - Sala 12",
+      "status": "Em uso",
+      "processador": "Intel Core i5-12400T",
+      "memoria": "16 GB",
+      "armazenamento": "SSD 512 GB",
+      "sistema": "Windows 11 Pro"
+    },
+    {
+      "id": 3,
+      "codigo": "ATV-003",
+      "patrimonio": "1031",
+      "nome": "HP ProDesk 400 G7",
+      "tipo": "Desktop",
+      "localizacao": "Secretaria - Bloco A",
+      "status": "Em manutenção",
+      "processador": "Intel Core i3-10100",
+      "memoria": "8 GB",
+      "armazenamento": "HD 1 TB",
+      "sistema": "Windows 10 Pro"
+    },
+    {
+      "id": 4,
+      "codigo": "ATV-004",
+      "patrimonio": "1040",
+      "nome": "Dell Latitude 5420",
+      "tipo": "Notebook",
+      "localizacao": "Coordenação - Sala 5",
+      "status": "Em uso",
+      "processador": "Intel Core i7-1165G7",
+      "memoria": "16 GB",
+      "armazenamento": "SSD 512 GB",
+      "sistema": "Windows 11 Pro"
+    },
+    {
+      "id": 5,
+      "codigo": "ATV-005",
+      "patrimonio": "1052",
+      "nome": "Positivo Master D610",
+      "tipo": "Desktop",
+      "localizacao": "Almoxarifado de TI",
+      "status": "Disponível",
+      "processador": "AMD Ryzen 5 5600G",
+      "memoria": "8 GB",
+      "armazenamento": "SSD 240 GB",
+      "sistema": "Ubuntu 24.04 LTS"
+    }
+  ]
+}

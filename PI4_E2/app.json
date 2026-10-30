@@ -1,0 +1,25 @@
+{
+  "expo": {
+    "name": "Inventário QR",
+    "slug": "pi4-e2-inventario-qr",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "plugins": [
+      [
+        "expo-camera",
+        {
+          "cameraPermission": "O app usa a câmera para ler o QR Code colado nos computadores."
+        }
+      ]
+    ],
+    "android": {
+      "permissions": ["android.permission.CAMERA"]
+    },
+    "ios": {
+      "infoPlist": {
+        "NSCameraUsageDescription": "O app usa a câmera para ler o QR Code colado nos computadores."
+      }
+    }
+  }
+}
